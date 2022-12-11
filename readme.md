@@ -17,8 +17,7 @@ Here is the list of data types supported by PHP Data Parser:
 
 To use PHP Data parser it is imperative to have the following configuration:
 
-!!! danger "PHP version"
-	**PHP >= PHP 8.1**
+> :warning: **PHP >= PHP 8.1**
 
 ## Quick example of use
 
