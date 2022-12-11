@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>Noneadd_parser/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/add_parser/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/add_parser/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/add_parser/"/>
+         
+    </url>
+    <url>
+         <loc>Nonecontact/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/contact/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/contact/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/contact/"/>
+         
+    </url>
+    <url>
+         <loc>None./</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+         
+    </url>
+    <url>
+         <loc>Noneinstallation/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/installation/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/installation/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/installation/"/>
+         
+    </url>
+    <url>
+         <loc>Nonelicence/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/licence/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/licence/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/licence/"/>
+         
+    </url>
+    <url>
+         <loc>Nonestructure/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/structure/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/structure/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/structure/"/>
+         
+    </url>
+    <url>
+         <loc>NonesourceCode/ArrayFormatter/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sourceCode/ArrayFormatter/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sourceCode/ArrayFormatter/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/sourceCode/ArrayFormatter/"/>
+         
+    </url>
+    <url>
+         <loc>NonesourceCode/DataFormat/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sourceCode/DataFormat/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sourceCode/DataFormat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/sourceCode/DataFormat/"/>
+         
+    </url>
+    <url>
+         <loc>NonesourceCode/DataFormatterInterface/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sourceCode/DataFormatterInterface/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sourceCode/DataFormatterInterface/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/sourceCode/DataFormatterInterface/"/>
+         
+    </url>
+    <url>
+         <loc>NonesourceCode/DataParser/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sourceCode/DataParser/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sourceCode/DataParser/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/sourceCode/DataParser/"/>
+         
+    </url>
+    <url>
+         <loc>NonesourceCode/DtoFormatter/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sourceCode/DtoFormatter/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sourceCode/DtoFormatter/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/sourceCode/DtoFormatter/"/>
+         
+    </url>
+    <url>
+         <loc>NonesourceCode/JsonFormatter/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sourceCode/JsonFormatter/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sourceCode/JsonFormatter/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/sourceCode/JsonFormatter/"/>
+         
+    </url>
+    <url>
+         <loc>NonesourceCode/XmlFormatter/</loc>
+         <lastmod>2022-12-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sourceCode/XmlFormatter/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sourceCode/XmlFormatter/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/sourceCode/XmlFormatter/"/>
+         
+    </url>
+</urlset>
