@@ -1,0 +1,108 @@
+site_name: PHP Data Parser
+site_description: A PHP Data Parser
+site_author: Kanté Mamadou Moussa
+repo_url: https://github.com/MMKante/PHPDataParser
+
+theme:
+  name: material
+  font:
+    text: Roboto
+  icon:
+    logo: material/cable-data
+  features:
+    - navigation.sections
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/MMKante
+    - icon: fontawesome/brands/github
+      link: https://guthub.com/MMKante/PHPDataParser
+    - icon: fontawesome/brands/linkedin
+      link: https://guthub.com/MMKante
+
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      languages:
+        en:
+          name: English
+          build: true
+        ru:
+          name: Русский
+          build: true
+        fr:
+          name: Français
+          build: true
+      nav_translations:
+        en:
+          Accueil: Home
+          Structure de la librairie: Library's structure
+          Ajout d'un parser: Create your own parser
+          Code source: Source code
+          A propos: About
+        ru:
+          Accueil: Главная
+          Installation & configuration: Установка и настройка
+          Installation: Установка
+          Structure de la librairie: Структура библиотеки
+          Ajout d'un parser: Добавление парсера
+          Code source: Исходный код
+          A propos: О себе
+          Licence: Лицензия
+          Contact: Контакт
+
+extra_css:
+  - assets/highlightjs/style.css
+extra_javascript:
+  - assets/highlightjs/script.js
+  - assets/highlightjs/main.js
+  - assets/mathjax/script.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - "Accueil": 'index.md'
+  - "Installation & configuration":
+    - "Installation": 'installation.md'
+    - "Structure de la librairie": 'structure.md'
+    - "Ajout d'un parser": 'add_parser.md'
+  - "Code source":
+    - "DataFormatterInterface": 'sourceCode/DataFormatterInterface.md'
+    - "DataParser": 'sourceCode/DataParser.md'
+    - "DataFormat": 'sourceCode/DataFormat.md'
+    - "XmlFormatter": 'sourceCode/XmlFormatter.md'
+    - "JsonFormatter": 'sourceCode/JsonFormatter.md'
+    - "DtoFormatter": 'sourceCode/DtoFormatter.md'
+    - "ArrayFormatter": 'sourceCode/ArrayFormatter.md'
+  - "A propos":
+    - "Licence ": 'licence.md'
+    - "Contact": 'contact.md'
