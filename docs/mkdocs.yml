@@ -26,9 +26,9 @@ extra:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/MMKante
     - icon: fontawesome/brands/github
-      link: https://guthub.com/MMKante/PHPDataParser
+      link: https://github.com/MMKante/PHPDataParser
     - icon: fontawesome/brands/linkedin
-      link: https://guthub.com/MMKante
+      link: https://linkedin.com/MMKante
 
 plugins:
   - search
