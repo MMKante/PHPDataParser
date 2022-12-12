@@ -3,7 +3,7 @@
 ## Introduction
 PHP Data Parser is designed to facilitate and simplify the classic tasks of data parsing. By providing an all-in-one toolkit to help you parse the various data used in your applications.
 
-The purpose of this presentation is to introduce the general concepts of PHP Data Parser, and to give you a quick overview of how these concepts are implemented in PHP Data Parser. If you are eager to start a project, you can start with the tutorial, or dive into the documentation.
+The purpose of this presentation is to introduce the general concepts of PHP Data Parser, and to give you a quick overview of how these concepts are implemented in PHP Data Parser. If you are eager to start a project, you can start with the tutorial, or dive into the [documentation](https://mmkante.github.io/PHPDataParser/).
 
 ## Supported parsers
 Here is the list of data types supported by PHP Data Parser:
